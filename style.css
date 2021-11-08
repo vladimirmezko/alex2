@@ -1,0 +1,117 @@
+body {
+  margin: auto;
+  }
+  
+  .print1 {
+  background-color: white;
+   width: 900px;
+   height: 1200px;
+   margin: auto;
+   margin-top: 10px;
+   margin-bottom: 20px;
+   box-shadow: 0px 0px 60px 0px;
+  
+    
+  }
+  
+  body  {
+    background: url(./img/fon.jpg);
+    
+  }
+
+  
+  .lico{
+  position: absolute;
+  width: 200px;
+  justify-content: center;
+  margin-left: 100px;
+  margin-top: 50px;
+  height: 200px;
+  background: url(./img/imgonline-com-ua-Resize-fIW6ts8XmDb8xsO.jpg);
+  box-shadow: 0 0 2px #666; /* Параметры тени */
+  }
+  
+ 
+
+
+  
+  H1 {
+  color: #222222;
+  font-size: 150%;
+  font-family: Arial, Verdana, sans-serif;
+  margin-left: 20px;
+  text-align: left;
+  }
+
+.text{
+    position: absolute;
+    margin-left: 50px;
+    
+    font-size: 120%;
+    margin-top: 260px; /* Отступ сверху */
+    margin-bottom: 1em;
+    line-height: 30px;
+    width: 400px;
+}
+
+.text2{
+  font-size: 120%;
+  position: absolute;
+  margin-left: 500px;
+  margin-top: 50px;
+  margin-bottom: 1em;
+  line-height: 30px;
+  width: 350px;
+  
+}
+
+
+a{
+    margin-bottom: -50px;
+    
+    
+}
+
+.fr3{
+  margin-top: 50px;
+  margin-left: 100px;
+
+}
+
+.fr4{
+  position: absolute;
+  margin-top: 80px;
+  margin-left: 450px;
+}
+
+b{
+  margin-block-end: -20px;
+  color: #000000;
+  font-size: 150%;
+  font-family: Arial, Verdana, sans-serif;
+  margin-left: 50px;
+  } */
+  
+  .p{
+  margin-left: 50px;
+  margin-block-start: 10px;
+  font-size: 120%;
+  }
+/*   
+  a{
+    margin-left: 50px;
+    margin-block-start: 10px;
+    font-size: 120%;
+  }
+  
+  @media (max-width: 480px)  {
+   body {
+    width: 475px;
+    height: 600px;
+  
+  
+    }
+  
+  
+  
+  }
